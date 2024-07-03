@@ -1,0 +1,8 @@
+criando painéis
+===============
+
+control + b + " => split horizontal
+control + b + % => split vertical
+control + b + o => seleciona "janela" com mouse
+control + b + e => desativa o comando em todas as "janelas" ao mesmo tempo
+control + b + E => ativa o comando em todas as "janelas" ao mesmo tempo
